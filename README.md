@@ -1,2 +1,2 @@
 # MUIA
-Repo containing al the code developed in my MSc in AI
+Repo containing some reports and code developed during UPM's AI MSc
